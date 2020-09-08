@@ -5,7 +5,7 @@
 
 I code occasionally. I wouldn't say I'm full stack but I do not have an area of expertise. I just learn and do what is necessary to complete a project. I've worked with FPGAs, Windows Phone, iOS, Android, Playstation 4, Java Microservices, compilers, React, OpenGL, WebGL and [even more](https://celikk.me/celikresume.pdf).
 
-Computers have always been my thing ever since I learnt how to read and write from a keyboard at the age of 5. I do parkour and enjoy meeting friends to do outdoor activities. Feel free to reach out via any of the links below.
+Computers have always been my thing ever since I learnt how to read and write from a keyboard at the age of 5. I do parkour and enjoy meeting friends to do outdoor activities. Feel free to reach out.
 
 <hr>
 
