@@ -3,9 +3,9 @@
 [![Blog Badge](https://img.shields.io/badge/-blog-000000?style=flat&labelColor=000000&logo=Blogger&link=https://celikk.me/blog)](https://celikk.me/blog)
 [![Instagram Badge](https://img.shields.io/badge/-@celikkoseoglu-c02a67?style=flat&labelColor=c02a67&logo=Instagram&logoColor=white&link=https://www.instagram.com/celikkoseoglu/)](https://www.instagram.com/celikkoseoglu/)
 
-I code occasionally. I wouldn't say I'm full stack but I do not have an area of expertise either. I just learn and do what is necessary to complete a project. I've worked with FPGAs, Windows Phone, iOS, Android, Playstation 4, Java Microservices, compilers, React, OpenGL, WebGL and [even more](https://celikk.me/celikresume.pdf).
+I'm a full stack developer with a professional experience in many areas. I basically learn and do what's necessary to complete a project. I've worked with FPGAs, Windows Phone, iOS, Android, Playstation 4, Java Microservices, compilers, React, OpenGL, WebGL, smart TVs and [even more](https://celikk.me/celikresume.pdf).
 
-Computers have always been my thing. I learnt how to read and write from a keyboard at the age of 5. I do parkour and enjoy meeting friends to do outdoor activities. Feel free to reach out.
+Computers have always been my thing. I learnt how to read and write from a keyboard at the age of 5. I do parkour and enjoy meeting friends to do outdoor activities.
 
 <hr>
 
